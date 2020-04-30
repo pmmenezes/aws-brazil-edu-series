@@ -13,4 +13,6 @@ As arquiteturas de cada etapa foram:
 - [Escalando do Zero aos Seus Primeiros 10 Milhões de Usuários](https://pt.slideshare.net/AmazonWebServices/escalando-do-zero-aos-seus-primeiros-10-milhes-de-usurios-arc203-sao-paulo-summit)
 - [Moodle Backup](https://docs.moodle.org/38/en/Site_backup)
 - [Moodle Restore](https://docs.moodle.org/38/en/Site_restore)
+- [Moodle Cluster](https://docs.moodle.org/38/en/Server_cluster)
+- [Moodle Desempenho & Escalabilidade](https://docs.moodle.org/dev/Performance_and_scalability)
 - [AWS Moodle Refarch](https://github.com/aws-samples/aws-refarch-moodle)
