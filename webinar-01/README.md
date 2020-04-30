@@ -8,6 +8,42 @@ Em cada etapa foi feito um teste de carga para validar a arquitetura proposta. V
 
 As arquiteturas de cada etapa foram:
 
+### Poucos usuários
+
+</br>
+<p align="center"><img src="images/1user.png" width="512"/></p>
+</br>
+
+### Centenas de usuários
+
+</br>
+<p align="center"><img src="images/100users.png" width="512"/></p>
+</br>
+
+### Milhares de usuários
+
+</br>
+<p align="center"><img src="images/1Kusers.png" width="512"/></p>
+</br>
+
+### Centenas de milhares de usuários
+
+</br>
+<p align="center"><img src="images/100Kusers.png" width="512"/></p>
+</br>
+
+### Meio milhão
+
+</br>
+<p align="center"><img src="images/500Kusers.png" width="512"/></p>
+</br>
+
+### Próximos passos
+
+</br>
+<p align="center"><img src="images/next-steps.png" width="512"/></p>
+</br>
+
 ## Referências
 
 - [Escalando do Zero aos Seus Primeiros 10 Milhões de Usuários](https://pt.slideshare.net/AmazonWebServices/escalando-do-zero-aos-seus-primeiros-10-milhes-de-usurios-arc203-sao-paulo-summit)

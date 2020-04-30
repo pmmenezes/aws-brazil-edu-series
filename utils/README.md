@@ -4,6 +4,7 @@
 
 - [VPC template](vpc-template.yaml)
 - [Solução para teste de carga](https://aws.amazon.com/solutions/distributed-load-testing-on-aws/)
+- [Solução para teste de carga com JMeter](https://github.com/gabrielmartinigit/jmeter-ec2)
 
 ## Plugins Moodle relacionados a serviços AWS
 
