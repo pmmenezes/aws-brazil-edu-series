@@ -16,4 +16,3 @@
 - [Document Converter](https://moodle.org/plugins/fileconverter_librelambda)
 - [CloudFront URL Signer](https://moodle.org/plugins/filter_cloudfront_signurl)
 - [DynamoDB Sessions](https://moodle.org/plugins/local_session_dynamodb)
-- []()
